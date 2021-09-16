@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: var(--bgSite);
+    height: 50px;
+    letter-spacing: 1px;
+}
+
+.h2-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--bgSite);
+    color: var(--title);
+    letter-spacing: 1px;
+    height: 40px;
+}
+
+img{
+    filter: brightness(50%);
+}
+
+.logo-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
