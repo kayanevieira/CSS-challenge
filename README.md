@@ -7,4 +7,4 @@
 <img src="/main-section-image.jpeg" alt="">
 
 <h3>Responsive mobile image</h3><br>
-<img src="/responsive-mobile-image" alt="">
+<img src="/responsive-mobile-image.jpeg" alt="">
